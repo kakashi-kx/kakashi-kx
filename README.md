@@ -169,17 +169,5 @@
 
 ---
 
-## ✨ **What's New in This Version**
 
-| Section | Changes |
-|---------|---------|
-| **Featured Project** | Added complete APT Emulation Platform section |
-| **Results Display** | Shows real test metrics (63.6% success rate) |
-| **Tech Stack** | Python, Flask, MITRE ATT&CK badges |
-| **Project Stats** | Stars and forks badges for your repo |
-| **Security Skills** | Added APT Emulation, MITRE ATT&CK badges |
-| **Upcoming Projects** | Shows APT Platform as completed |
-| **Profile Badges** | Your education and certifications |
-
----
 
