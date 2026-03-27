@@ -29,58 +29,7 @@
 [ Exploitation ] → [ Installation ] → [ C2 ] → [ Actions on Objectives ]
 ```
 
----
 
-## 🚀 Featured Project: APT Emulation Platform
-
-<p align="center">
-  <a href="https://github.com/kakashi-kx/apt-emulation-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kakashi-kx&repo=apt-emulation-platform&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-### 🔥 What Makes It Revolutionary
-
-> **Simulate real APT attacks and quantify business risk in dollars**
-
-| Feature | Description |
-|---------|-------------|
-| 🎯 **APT29 Emulation** | Russian state-sponsored attacks (11 MITRE techniques) |
-| 💀 **Lazarus Group** | North Korean destructive attacks (7 techniques) |
-| 🔒 **Ransomware Operators** | Modern ransomware kill chain (7 techniques) |
-| 🌐 **Web Interface** | Beautiful Flask dashboard with one-click campaigns |
-| 📊 **Business Impact** | Quantify breach risk - $45M potential loss identified |
-| ⚙️ **Configurable** | Customize for any environment with YAML config |
-
-### 📊 Real Results
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ATTACK SUCCESS RATE:    63.6%                         │
-│  DETECTION RATE:         18.2%                         │
-│  BUSINESS IMPACT:        $25-50M                       │
-│  TIME TO COMPROMISE:     4.2 hours                     │
-└─────────────────────────────────────────────────────────┘
-```
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-FF0000?logo=mitre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-</p>
-
-### 🔗 Links
-<p>
-  <a href="https://github.com/kakashi-kx/apt-emulation-platform">
-    <img src="https://img.shields.io/badge/GitHub-APT_Emulation_Platform-181717?logo=github"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/kakashi-kx/apt-emulation-platform?style=social"/>
-  <img src="https://img.shields.io/github/forks/kakashi-kx/apt-emulation-platform?style=social"/>
-</p>
 
 ---
 
@@ -167,7 +116,7 @@
     <img src="https://img.shields.io/badge/Check_Out-My_APT_Platform-red?logo=github"/>
   </a>
 </p>
-```
+
 
 ---
 
