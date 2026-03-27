@@ -121,12 +121,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakashi-kx&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kakashi-kx&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakashi-kx&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashi-kx&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <a href="https://github.com/kakashi-kx">
+    <img src="https://img.shields.io/github/followers/kakashi-kx?style=social"/>
+    <img src="https://img.shields.io/github/stars/kakashi-kx?style=social"/>
+  </a>
 </p>
 
 ---
