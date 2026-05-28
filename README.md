@@ -21,14 +21,14 @@
 ## Profile Overview
 
 ```
-┌─────────────────────────────────────────────────┐
-│  Name     : Abhijith S.                          │
-│  Alias    : kakashi-kx                           │
-│  Role     : Security Researcher                  │
-│  Focus    : Web App Pentesting · Adversary Emulation │
-│  Location : India                                │
-│  Status   : Open to Collaborations & Research    │
-└─────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│ Name : Abhijith S.                               │
+│ Alias : kakashi4kx                               │
+│ Role : Security Researcher                       │
+│ Focus : Web App Pentesting · Adversary Emu.      │
+│ Location : India                                 │
+│ Status : Open to Collaborations & Research       │
+└──────────────────────────────────────────────────┘
 ```
 
 > *"The quieter you become, the more you are able to hear."*
