@@ -109,18 +109,22 @@ Key Features:
 
 ## Research & Discoveries
 
-### Bug Bounty Highlights
-
-| Program | Finding | Severity | Status |
-|---------|---------|----------|--------|
-| **NASA** (Bugcrowd VDP) | Vulnerability Reported | — | Submitted |
-| **Vercel** | Remote Code Execution (RCE) × 3 | Critical | Duplicate |
-| **Various Programs** | P4 Bugs (Active Hunting) | Low-Medium | Ongoing |
+### Bug Bounty Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bugcrowd-kakashi4kx-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerOne-kakashi4kx-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <a href="https://cyber.comolho.com/researcher/profile/kakashi4kx/">
+    <img src="https://img.shields.io/badge/ComOlho_Researcher-Top_5%25_%7C_Rank_%23396-6A0DAD?style=for-the-badge&logo=security&logoColor=white" />
+  </a>
+  <a href="https://bugcrowd.com/kakashi4kx">
+    <img src="https://img.shields.io/badge/Bugcrowd-Researcher-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+  <a href="https://hackerone.com/kakashi4kx">
+    <img src="https://img.shields.io/badge/HackerOne-Researcher-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
 </p>
+
+
+
 
 ### Published Research
 <p>
@@ -178,6 +182,9 @@ Key Features:
   </a>
   <a href="https://github.com/kakashi-kx">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://cyber.comolho.com/researcher/profile/kakashi4kx/">
+    <img src="https://img.shields.io/badge/ComOlho_Researcher-Top_5%25_%7C_Rank_%23396-6A0DAD?style=for-the-badge&logo=security&logoColor=white" />
   </a>
   <a href="https://bugcrowd.com/kakashi4kx">
     <img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
