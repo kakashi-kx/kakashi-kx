@@ -1,76 +1,79 @@
-
-
-
-<!-- Red Team Ops Themed Ultra-Advanced GitHub Profile README -->
-
-
-<!-- Google Fonts for JetBrains Mono -->
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=50&pause=100&color=FF2E2E&center=true&vCenter=true&width=900&lines=Kakashi-kx+-+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2000&pause=500&color=FF2E2E&center=true&vCenter=true&width=900&lines=Kakashi-kx+-+Security+Researcher+%26+Red+Team+Enthusiast" />
 </p>
 
-
-
-
-<!-- Terminal Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=1000&color=39ff14&center=true&vCenter=true&width=750&lines=Initializing+Red+Team+Profile...;Loading+Modules...;Establishing+Reverse+Shell...;Access+Granted+%5BUser%3A+Kakashi-kx%5D;Deploying+Offensive+Toolkit...;APT+Emulation+Platform+Loaded..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39ff14&center=true&vCenter=true&width=700&lines=Specializing+in+Adversary+Emulation;Building+Custom+Offensive+Tooling;Sharing+Thorough+Vulnerability+Research" />
 </p>
 
 ---
 
-## 🌐 Red Team Operations Overview  
-> *"Attackers think in graphs, defenders think in lists."*
+## 👤 About Me
 
-### 🎯 Kill Chain Focus  
-```
-[ Reconnaissance ] → [ Weaponization ] → [ Delivery ]                       
-[ Exploitation ] → [ Installation ] → [ C2 ] → [ Actions on Objectives ]
-```
-
-
+- 🎓 BCA Graduate | University of Calicut
+- 🛡️ Security Researcher focused on **Adversary Simulation & Red Teaming**
+- 🐛 Bug Bounty Hunter — always probing for logic flaws
+- 📝 I write detailed vulnerability write-ups and share PoCs
+- ⚡ Motto: *"The quieter you become, the more you are able to hear."*
 
 ---
 
 ## ⚔️ Offensive Security Toolkit
 
-### 🔥 Tools in Arsenal  
+### Languages & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23000000?logo=kalilinux&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Metasploit-%23000000?logo=metasploit&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-%23f46f20?logo=burpsuite&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Empire-%23000000?logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cobalt_Strike-%23blue?logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-%23018b45?logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-%23007ACC?logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
 </p>
 
-### 🎯 Security Skills
+### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Red_Teaming-FF0000?logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat_Intelligence-FF9900?logo=threatintelligence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-00FF00?logo=testing&logoColor=black"/>
-  <img src="https://img.shields.io/badge/APT_Emulation-AA00FF?logo=mitre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-FF0000?logo=mitre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug_Bounty-FFD700?logo=bug&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
+
+### Focus Areas
+<p>
+  <img src="https://img.shields.io/badge/Adversary_Emulation-AA00FF?logo=mitre&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_App_Pentesting-00FF00?logo=owasp&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Active_Directory_Attacks-FF0000?logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bug_Bounty-FFD700?logo=hackerone&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-1E90FF?logo=mitre&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Upcoming Offensive Projects  
-- ✅ **APT Emulation Platform** - Completed  
-- 🔄 Red Team Automation Suite (In Progress)  
-- 🔄 Advanced C2 Framework (Planning)  
-- ⏳ AD Attack Lab  
-- ⏳ Zero-Day Testing Sandbox  
+## 📂 Featured Projects
+
+### 🔴 [APT Emulation Platform](https://github.com/kakashi-kx/apt-emulation-platform)
+> Simulating real-world adversary TTPs in a controlled lab environment.
+- **Tech:** `PowerShell` `C#` `Docker`
+- **Status:** ✅ Completed
+
+### 🛠️ [Project Name 2] *(Replace with your next tool)*
+> Brief one-line description of what it does and why it matters.
+- **Tech:** `Python` `Flask` `SQLite`
+- **Status:** 🔄 In Progress
+
+### 📝 [Security Write-ups & PoCs] *(Create this repo)*
+> Detailed analysis of CVEs, bug bounty findings, and CTF solutions.
+- **Contains:** Step-by-step reproduction, root cause analysis, remediation
+- **Status:** 📈 Continuously Updated
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakashi-kx&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kakashi-kx&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashi-kx&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -82,43 +85,26 @@
 
 ---
 
-## 🏆 Featured Badges
+## 📜 Ethics & Responsible Disclosure
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA_Graduate-2ea043?logo=graduation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red_Team_Hacker_Academy-FF0000?logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/University_of_Calicut-0000FF?logo=university&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug_Hunter-FFD700?logo=bug&logoColor=black"/>
-</p>
+> ⚠️ **Disclaimer:** All tools and proof-of-concept code in my repositories are for **educational purposes and authorized security testing only**. Always obtain explicit written permission before testing any system you do not own.
+
+If you discover a vulnerability in any of my projects, please see my [SECURITY.md](link) for responsible disclosure guidelines. I practice coordinated vulnerability disclosure.
 
 ---
 
-<h2 align="center">🛡️ Mission Status: ACTIVE</h2>
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://i.imgur.com/tXBTI4R.gif" width="700"/>
-</p>
-
----
-
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear." - Kakashi Hatake</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kakashi-kx">
-    <img src="https://img.shields.io/github/followers/kakashi-kx?style=social"/>
-  </a>
   <a href="https://www.linkedin.com/in/abhixjith">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhixjith-0A66C2?logo=linkedin&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/kakashi-kx/apt-emulation-platform">
-    <img src="https://img.shields.io/badge/Check_Out-My_APT_Platform-red?logo=github"/>
+  <a href="https://github.com/kakashi-kx">
+    <img src="https://img.shields.io/badge/GitHub-kakashi--kx-181717?logo=github&style=for-the-badge"/>
   </a>
+  <!-- Add Twitter/Blog if you have them -->
 </p>
 
-
----
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kakashi-kx&color=red&style=flat-square" alt="Profile Views"/>
+</p>
