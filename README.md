@@ -5,7 +5,7 @@
 
 <!-- Header with fixed animation width -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FF2E2E&center=true&vCenter=true&width=800&lines=Abhijith+S.+(kakashi-kx);Security+Researcher+%7C+Red+Team+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FF2E2E&center=true&vCenter=true&width=800&lines=Abhijith+S.+(kakashi4kx);Security+Researcher+%7C+Red+Team+Enthusiast" />
 </p>
 
 <p align="center">
