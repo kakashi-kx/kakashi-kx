@@ -26,14 +26,9 @@
 
 ## ⟡ Profile
 
-```yaml
-name:      Abhijith S.
-alias:     kakashi4kx
-role:      Security Researcher
-focus:     Web App Pentesting · Adversary Emulation · Cloud & AD Attack Paths
-location:  India
-status:    Open to collaborations & research
-```
+<div align="center">
+<img src="assets/profile-card.svg" alt="Abhijith S. — terminal profile card" width="760" />
+</div>
 
 <br>
 
