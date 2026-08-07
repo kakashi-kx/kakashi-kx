@@ -1,0 +1,87 @@
+<svg width="760" height="360" viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Courier New', monospace">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9333EA"/>
+      <stop offset="50%" stop-color="#C026D3"/>
+      <stop offset="100%" stop-color="#FF2E9A"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9333EA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF2E9A" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#9333EA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer glow border -->
+  <rect x="2" y="2" width="756" height="356" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="2.5">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal body -->
+  <rect x="6" y="6" width="748" height="348" rx="11" fill="#0D0D0F"/>
+
+  <!-- title bar -->
+  <rect x="6" y="6" width="748" height="34" rx="11" fill="#141018"/>
+  <rect x="6" y="28" width="748" height="12" fill="#141018"/>
+  <circle cx="30" cy="23" r="6" fill="#FF5F56"/>
+  <circle cx="52" cy="23" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="23" r="6" fill="#27C93F"/>
+  <text x="380" y="27" fill="#8b8b95" font-size="12" text-anchor="middle">kakashi4kx@recon:~</text>
+
+  <!-- animated scanline sweep across title bar -->
+  <rect x="6" y="6" width="60" height="34" fill="url(#glow)">
+    <animate attributeName="x" values="6;700;6" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- prompt lines, staggered reveal -->
+  <g font-size="15">
+
+    <!-- whoami -->
+    <text x="26" y="72" fill="#FF2E9A" opacity="0">❯ <tspan fill="#C084FC">whoami</tspan>
+      <animate attributeName="opacity" to="1" begin="0.2s" dur="0.15s" fill="freeze"/>
+    </text>
+    <text x="26" y="96" fill="#F1F1F5" opacity="0">Abhijith S. <tspan fill="#9333EA">(kakashi4kx)</tspan>
+      <animate attributeName="opacity" to="1" begin="0.7s" dur="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- role -->
+    <text x="26" y="130" fill="#FF2E9A" opacity="0">❯ <tspan fill="#C084FC">role --current</tspan>
+      <animate attributeName="opacity" to="1" begin="1.3s" dur="0.15s" fill="freeze"/>
+    </text>
+    <text x="26" y="154" fill="#F1F1F5" opacity="0">Security Researcher
+      <animate attributeName="opacity" to="1" begin="1.8s" dur="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- focus -->
+    <text x="26" y="188" fill="#FF2E9A" opacity="0">❯ <tspan fill="#C084FC">focus --list</tspan>
+      <animate attributeName="opacity" to="1" begin="2.4s" dur="0.15s" fill="freeze"/>
+    </text>
+    <text x="26" y="212" fill="#F1F1F5" opacity="0">Web App Pentesting <tspan fill="#9333EA">·</tspan> Adversary Emulation <tspan fill="#9333EA">·</tspan> Cloud &amp; AD Attack Paths
+      <animate attributeName="opacity" to="1" begin="2.9s" dur="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- location -->
+    <text x="26" y="246" fill="#FF2E9A" opacity="0">❯ <tspan fill="#C084FC">geoip --self</tspan>
+      <animate attributeName="opacity" to="1" begin="3.5s" dur="0.15s" fill="freeze"/>
+    </text>
+    <text x="26" y="270" fill="#F1F1F5" opacity="0">India
+      <animate attributeName="opacity" to="1" begin="4.0s" dur="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- status -->
+    <text x="26" y="304" fill="#FF2E9A" opacity="0">❯ <tspan fill="#C084FC">status --check</tspan>
+      <animate attributeName="opacity" to="1" begin="4.6s" dur="0.15s" fill="freeze"/>
+    </text>
+    <text x="26" y="328" opacity="0">
+      <tspan fill="#27C93F">●</tspan>
+      <tspan fill="#F1F1F5"> Open to collaborations &amp; research</tspan>
+      <animate attributeName="opacity" to="1" begin="5.1s" dur="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- blinking cursor -->
+    <rect x="26" y="336" width="10" height="16" fill="#FF2E9A" opacity="0">
+      <animate attributeName="opacity" to="1" begin="5.6s" dur="0.01s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
