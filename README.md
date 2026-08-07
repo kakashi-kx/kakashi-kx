@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/./-Profile-9333EA?style=for-the-badge&labelColor=0D0D0D" />
+## ⟡ Profile
 
 <div align="center">
 <img src="assets/profile-card.svg" alt="Abhijith S. — terminal profile card" width="760" />
@@ -146,16 +146,28 @@
 
 <br>
 
-## ⟡ GitHub Analytics
+## ⟡ Research Impact — Live
+
+<sub>Auto-refreshed by the same GitHub Action that updates the credits table below — these are counted straight from <code>data/security_credits.json</code> and the live advisory API, not GitHub's commit-graph vanity metrics.</sub>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kakashi-kx&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D" height="180" />
+<!--IMPACT:START-->
+<img src="https://img.shields.io/badge/Advisories_Credited-2-9333EA?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/CVEs_Assigned-1-FF2E9A?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Ecosystems-npm-6A0DAD?style=for-the-badge&labelColor=0D0D0D" />
+<!--IMPACT:END-->
+
+</div>
+
+<br>
+
+## ⟡ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kakashi-kx&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&hide=stars" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashi-kx&layout=compact&theme=synthwave&hide_border=true&langs_count=6&bg_color=0D0D0D" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kakashi-kx&theme=synthwave&hide_border=true&background=0D0D0D" height="180" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kakashi-kx&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
