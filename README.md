@@ -24,7 +24,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/./-Profile-9333EA?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/./-Profile-9333EA?style=for-the-badge&labelColor=0D0D0D" />
 
 <div align="center">
 <img src="assets/profile-card.svg" alt="Abhijith S. — terminal profile card" width="760" />
