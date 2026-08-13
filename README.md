@@ -125,7 +125,7 @@
 | Advisory | Severity | Package | CVE |
 |---|---|---|---|
 | [repomix: Command Injection (RCE) via `--remote-branch` Argument Injection](https://github.com/advisories/GHSA-9mm9-rqhj-j5mx) | ![HIGH](https://img.shields.io/badge/HIGH-FF2E9A?style=flat-square) | `repomix` (npm) | CVE-2026-49987 |
-| [Auth.js: Email normalizer validates address before Unicode normalization — homoglyph `@` bypass](https://github.com/advisories/GHSA-7rqj-j65f-68wh) | ![CRITICAL](https://img.shields.io/badge/CRITICAL-8B0000?style=flat-square) | `@auth/core` (npm) | — |
+| [Auth.js: Email normalizer validates address before Unicode normalization — homoglyph `@` bypass](https://github.com/advisories/GHSA-7rqj-j65f-68wh) | ![CRITICAL](https://img.shields.io/badge/CRITICAL-8B0000?style=flat-square) | `@auth/core` (npm) | CVE-2026-73420 |
 <!--SECURITY-CREDITS:END-->
 
 <br>
