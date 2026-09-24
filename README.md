@@ -154,8 +154,8 @@
 
 <!--IMPACT:START-->
 <img src="https://img.shields.io/badge/Advisories_Credited-2-9333EA?style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/CVEs_Assigned-1-FF2E9A?style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Ecosystems-npm-6A0DAD?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/CVEs_Assigned-2-FF2E9A?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Pending_CVEs-3-6A0DAD?style=for-the-badge&labelColor=0D0D0D" />
 <!--IMPACT:END-->
 
 </div>
